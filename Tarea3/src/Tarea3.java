@@ -9,7 +9,6 @@ import tarea3.Productos;
 
 package tarea3;
     
-    
 
 public class Tarea3 {
     private ArrayList<Cliente> clientes;
